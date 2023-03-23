@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742125409792",
+    "project_id": "specialistbooking-97eef",
+    "storage_bucket": "specialistbooking-97eef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742125409792:android:48c24bfb70d4b71844aae5",
+        "android_client_info": {
+          "package_name": "com.ensias.healthcareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742125409792-0qv537atoc3esth2g0ddampsrg0cjs1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLpIVDwwc-PolR9dbI8KkF9ZZiL2S5f1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742125409792-0qv537atoc3esth2g0ddampsrg0cjs1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
