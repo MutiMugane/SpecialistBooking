@@ -14,7 +14,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "742125409792-0qv537atoc3esth2g0ddampsrg0cjs1l.apps.googleusercontent.com",
+          "client_id": "742125409792-7ddb8o13k52ckkob8qk8e67qtn8p994f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ensias.healthcareapp",
+            "certificate_hash": "203c1b2c8367de8c51b4839b0aea1ec75a76ce29"
+          }
+        },
+        {
+          "client_id": "742125409792-smf14fm5gsb064p2ddusbg3ajpt8imr3.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
